@@ -22,9 +22,9 @@ Este proyecto es un simulador interactivo de circuitos RLC desarrollado en React
 
 ## Instalación
 
-1. Extrae todos los archivos en una carpeta
-2. Abre una terminal en la carpeta del proyecto
-3. Ejecuta: `npm install`
+1. Extraiga todos los archivos en una carpeta
+2. Abra una terminal en la carpeta del proyecto
+3. Ejecute: `npm install`
 4. Para iniciar la aplicación: `npm start`
 
 ## Uso
